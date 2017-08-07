@@ -1,7 +1,7 @@
 {
-  "name": "tsbits-starter",
+  "name": "android-wear-starter",
   "version": "1.0.0",
-  "description": "A starter for webdev",
+  "description": "A starter for watch",
   "author": "tsbits",
   "license": "ISC",
   "devDependencies": {
