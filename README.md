@@ -1,5 +1,5 @@
-# tsbits-starter
-### A simple starter for small web projects
+# Android Wear STARTER WEB
+### starter for little webapp wathc
 
 Hello there, here is a tiny starter I've build to answer my own needs.
 
@@ -7,6 +7,7 @@ Hello there, here is a tiny starter I've build to answer my own needs.
 * [HTML5Boilerplate](https://html5boilerplate.com/)
 * [Gulp](http://gulpjs.com/)
 * [SaSS](http://sass-lang.com/)
+* [tsbits-starter](https://github.com/tsbits/tsbits-starter) 
 
 ### Documentation (sort of...)
 #### Setup :
@@ -15,6 +16,7 @@ Hello there, here is a tiny starter I've build to answer my own needs.
 * Run npm install
 * Run gulp (by default this executes the 'watch' task)
 * You're ready to code
+* Open responsive emulator on 229x229 for the huawei watch 
 
 #### Start coding :
 * You have to work inside app/ (all your src must be inside)
@@ -56,8 +58,9 @@ Hello there, here is a tiny starter I've build to answer my own needs.
 * app/js/plugins.js & app/js/vendors/modernizr-$.min.js are JS from [HTML5Boilerplate](https://html5boilerplate.com/)
 
 #### Credits :
-* [HTML5Boilerplate](https://html5boilerplate.com/) because it's my favorite boilerplate
-* [Node](https://nodejs.org/en/) because that's my favorite tool ATM
-* [Gulp](http://gulpjs.com/) because it's faster than Grunt and Gulp sound better than Grunt
-* [SaSS](http://sass-lang.com/) because it saved me a lot of time
-* [CSSTricks](https://css-tricks.com/) for some cool articles on Gulp and more generaly this website rocks
+* [HTML5Boilerplate](https://html5boilerplate.com/)
+* [Node](https://nodejs.org/en/)
+* [Gulp](http://gulpjs.com/)
+* [SaSS](http://sass-lang.com/)
+* [CSSTricks](https://css-tricks.com/) 
+* [tsbits-starter](https://github.com/tsbits/tsbits-starter) 
